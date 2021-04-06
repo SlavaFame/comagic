@@ -1,0 +1,19 @@
+{
+  "name": "comagic",
+  "version": "1.0.0",
+  "description": "sending in ajax comagic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlavaFame/comagic.git"
+  },
+  "author": "SlavaFame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlavaFame/comagic/issues"
+  },
+  "homepage": "https://github.com/SlavaFame/comagic#readme"
+}
